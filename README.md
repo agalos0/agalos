@@ -34,4 +34,4 @@ its a c++ program that reads a text file and execute :
   b)search.
   
   
-//it works for a specific number of words
+//it works for a specific number of words.you can use any text you want but you need to change the name.
